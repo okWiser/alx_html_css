@@ -1,5 +1,5 @@
 Project Title
-- CCS Advanced
+- CCS Smile Project
 
 Table of Contents
 -Introduction
